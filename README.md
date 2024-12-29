@@ -73,6 +73,9 @@ const dilshad = {
   <a href="https://github.com/hdaamzz/shopeazy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hdaamzz&repo=shopeazy&theme=tokyonight" />
   </a>
+   <a href="https://github.com/hdaamzz/User-Management-System-TS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hdaamzz&repo=User-Management-System-TS&theme=tokyonight" />
+  </a>
 </div>
 
 ## 🤝 Connect With Me
