@@ -17,6 +17,7 @@ const dilshad = {
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     currentFocus: "MEAN Stack Development",
     askMeAbout: ["Web Dev", "Tech", "Videography"],
+
     technologies: {
         frontEnd: {
             js: ["Angular", "NgRx"],
@@ -26,6 +27,7 @@ const dilshad = {
             js: ["Node", "Express"],
         },
         databases: ["MongoDB","SQL"],
+
         tools: ["Git", "GitHub", "Postman", "VS Code"]
     }
 };
@@ -97,3 +99,4 @@ const dilshad = {
 <div align="center">
   <b>Show some ❤️ by starring some repositories!</b>
 </div>
+
