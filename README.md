@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshhh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/hdaamzz)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:diluhd99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?logo=google-chrome&logoColor=white)](https://github.com/hdaamzz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?logo=google-chrome&logoColor=white)](https://hamzathuldilshad.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hdaamzz&color=00d9ff&style=flat-square&label=Profile+Views)
 
