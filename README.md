@@ -226,10 +226,6 @@ const dilshad: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hdaamzz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hdaamzz&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
-</div>
-<div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=hdaamzz&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats"/>
 </div>
 <div align="center">
