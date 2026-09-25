@@ -2,9 +2,9 @@
   
 # ⚡ HAMZATHUL DILSHAD
 
-### Full-Stack MEAN Developer • Cloud Architect • Problem Solver
+### Software Engineer • Angular Developer • MEAN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;MEAN+Stack+%7C+AWS+%7C+Docker;Real-Time+Systems+%7C+WebRTC;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Building+GRC+%26+Enterprise+Web+Apps;Angular+%7C+MEAN+Stack+%7C+AWS+%7C+Docker;AI-Driven+Development+%7C+CI%2FCD;Clean+Architecture+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -25,6 +25,7 @@
 interface Developer {
   name: string;
   role: string;
+  company: string;
   location: string;
   currentFocus: string[];
   expertise: string[];
@@ -32,19 +33,20 @@ interface Developer {
 
 const dilshad: Developer = {
   name: "Hamzathul Dilshad",
-  role: "Full-Stack MEAN Developer",
-  location: "Kozhikode, Kerala, India",
+  role: "Software Engineer",
+  company: "Jethur",
+  location: "Kochi, Kerala, India",
   currentFocus: [
-    "Building production-grade MEAN stack applications",
-    "Cloud deployment with AWS & Docker",
-    "Real-time communication systems",
-    "Clean architecture & design patterns"
+    "Building Angular front-end modules for a GRC product",
+    "AI-driven development & CI/CD-based delivery",
+    "State management with NgRx & MobX",
+    "Clean architecture & scalable design patterns"
   ],
   expertise: [
     "Scalable REST APIs",
     "WebRTC & Socket.io",
     "Payment Gateway Integration",
-    "State Management (NgRx)"
+    "State Management (NgRx, MobX)"
   ]
 };
 ```
@@ -61,6 +63,7 @@ const dilshad: Developer = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -80,6 +83,7 @@ const dilshad: Developer = {
 <td align="center" width="50%">
 
 ### Database & Cache
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -92,6 +96,7 @@ const dilshad: Developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -105,7 +110,29 @@ const dilshad: Developer = {
 
 **Payment & Security:** Stripe • Razorpay • JWT • OAuth 2.0 • RBAC • Bcrypt
 
+**Domain:** Governance, Risk & Compliance (GRC) • AI-Driven Development • CI/CD Pipelines
+
 </div>
+
+---
+
+## 💼 Current Role
+
+```yaml
+Company: Jethur
+Role: Software Engineer
+Duration: Jul 2025 - Present
+Location: Kochi, Kerala (Hybrid)
+
+Highlights:
+  - Contributing to an enterprise Governance, Risk, and Compliance (GRC) product
+    across multiple GRC modules alongside cross-functional teams
+  - Collaborating with the Angular team on a scalable, user-friendly front-end
+    system using Angular, Bootstrap, and MobX for state management
+  - Applying AI-driven development practices to accelerate feature delivery
+  - Streamlining CI/CD pipelines for build, test, and deployment workflows
+  - Enforcing clean code design patterns (SOLID, modular architecture)
+```
 
 ---
 
@@ -124,7 +151,7 @@ const dilshad: Developer = {
 **🎯 Impact:**
 - 📊 50+ active users
 - 💬 100+ concurrent chat users
-- 💳 100+ transactions processed
+- 💳 200+ transactions processed
 
 **💡 Key Features:**
 - Real-time chat with Socket.IO
@@ -145,7 +172,7 @@ const dilshad: Developer = {
 [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdaamzz/shopeazy)
 
 **🎯 Impact:**
-- 🛍️ 100+ products
+- 🛍️ 1000+ products
 - 📈 300+ daily requests
 - ⚡ 35% faster response time
 
@@ -214,8 +241,8 @@ const dilshad: Developer = {
 <summary><b>📦 More Projects</b></summary>
 <br/>
 
-- **[BlogBee - CMS](https://blog-bee-nine.vercel.app)** - Content Management System with article CRUD, admin dashboard, MongoDB validation
-- **[User Management System](https://github.com/hdaamzz/User-Management-System-TS)** - RBAC, NgRx state management, secure authentication
+- **[BlogBee - CMS](https://blog-bee-nine.vercel.app)** - Content Management System with article CRUD, admin dashboard, MongoDB schema validation
+- **[UMS - User Management System](https://github.com/hdaamzz/SMS-NgRx)** - CRUD system with RBAC and NgRx state management
 - **[Netflix Clone](https://github.com/hdaamzz/Netflix-Clone-Angular)** - Streaming UI clone with Angular
 - **[Student Management System](https://github.com/hdaamzz/Angular-NGRX-Student-Management-System)** - CRUD with NgRx state management
 
@@ -234,19 +261,21 @@ const dilshad: Developer = {
 
 ---
 
-## 💼 Professional Highlights
+## 💡 Professional Highlights
 
 ```yaml
 Experience:
-  - Role: Full-Stack MEAN Developer
-  - Specialization: Scalable Web Applications
+  - Role: Software Engineer (Angular Developer)
+  - Company: Jethur
+  - Domain: Governance, Risk & Compliance (GRC)
   - Focus Areas:
       - Clean Architecture & Design Patterns
       - Real-Time Communication (WebRTC, Socket.io)
       - Payment Gateway Integration (Stripe, Razorpay)
       - Cloud Deployment (AWS EC2, Docker, Nginx)
-      - State Management (NgRx)
-  
+      - State Management (NgRx, MobX)
+      - AI-Driven Development & CI/CD
+
 Performance Metrics:
   - Code Quality: 40% reduction in code duplication
   - Response Time: 35% improvement with Nginx
@@ -262,7 +291,7 @@ Live Deployments: 5+
 
 ## 🎓 Education & Training
 
-**🎯 Brototype, Calicut** - *MEAN Stack Development Intensive Bootcamp*
+**🎯 Brototype, Calicut** - *MEAN Stack Development Intensive Bootcamp Certification* • Sep 2024 - Jul 2025
 
 **🎓 PPTM College** - *Bachelor of Computer Applications (BCA)* • University of Calicut • 2020-2023
 
@@ -274,11 +303,11 @@ Live Deployments: 5+
 <tr>
 <td width="60%">
 
-- 🚀 Building production-grade MEAN stack applications
+- 🏢 Building Angular modules for an enterprise GRC product at Jethur
+- 🤖 Applying AI-driven development practices in day-to-day delivery
 - ☁️ Exploring advanced AWS services and microservices
 - 🎨 Mastering advanced Angular features (Signals, SSR)
 - 🔐 Implementing enterprise-level security patterns
-- 📊 Contributing to open-source projects
 - 💡 Solving DSA problems on LeetCode
 
 </td>
@@ -292,9 +321,9 @@ const currentGoals = {
     "Next.js",
     "AWS Advanced"
   ],
+  applying: "AI-Driven Development",
   contributing: "Open Source",
-  seeking: "Job Opportunities",
-  building: "Scalable Systems"
+  building: "Enterprise GRC Systems"
 };
 ```
 
@@ -313,9 +342,9 @@ const currentGoals = {
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdaamzz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hdaamzz)
 
-### 💼 Open to Full-Time Opportunities
+### 💼 Software Engineer at Jethur
 
-**Interested in:** Full-Stack Development • MEAN Stack • Cloud Architecture • Remote/Hybrid Roles
+**Open to:** Full-Stack Development • Angular/MEAN Stack • Cloud Architecture • Remote/Hybrid Roles
 
 </div>
 
