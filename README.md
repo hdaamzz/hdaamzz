@@ -38,9 +38,9 @@ const dilshad: Developer = {
   location: "Kochi, Kerala, India",
   currentFocus: [
     "Building Angular front-end modules for a GRC product",
-    "AI-driven development & CI/CD-based delivery",
+    "AI-driven development",
     "State management with NgRx & MobX",
-    "Clean architecture & scalable design patterns"
+    "Scalable design patterns"
   ],
   expertise: [
     "Scalable REST APIs",
@@ -96,7 +96,6 @@ const dilshad: Developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -110,7 +109,7 @@ const dilshad: Developer = {
 
 **Payment & Security:** Stripe • Razorpay • JWT • OAuth 2.0 • RBAC • Bcrypt
 
-**Domain:** Governance, Risk & Compliance (GRC) • AI-Driven Development • CI/CD Pipelines
+**Domain:** Governance, Risk & Compliance (GRC) • AI-Driven Development
 
 </div>
 
@@ -121,7 +120,7 @@ const dilshad: Developer = {
 ```yaml
 Company: Jethur
 Role: Software Engineer
-Duration: Jul 2025 - Present
+Duration: Feb 2026 - Present
 Location: Kochi, Kerala (Hybrid)
 
 Highlights:
@@ -130,7 +129,6 @@ Highlights:
   - Collaborating with the Angular team on a scalable, user-friendly front-end
     system using Angular, Bootstrap, and MobX for state management
   - Applying AI-driven development practices to accelerate feature delivery
-  - Streamlining CI/CD pipelines for build, test, and deployment workflows
   - Enforcing clean code design patterns (SOLID, modular architecture)
 ```
 
@@ -145,7 +143,6 @@ Highlights:
 ### 🎉 EvenDigo
 **Event Management & Booking Platform**
 
-[![Live Demo](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://evendigo.space)
 [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdaamzz/EvenDigo)
 
 **🎯 Impact:**
@@ -168,7 +165,6 @@ Highlights:
 ### 🛒 ShopEazy
 **Full-Featured E-Commerce Platform**
 
-[![Live Demo](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shopeazy.evendigo.space)
 [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdaamzz/shopeazy)
 
 **🎯 Impact:**
@@ -250,17 +246,6 @@ Highlights:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=hdaamzz&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats"/>
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hdaamzz&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 💡 Professional Highlights
 
 ```yaml
@@ -274,7 +259,7 @@ Experience:
       - Payment Gateway Integration (Stripe, Razorpay)
       - Cloud Deployment (AWS EC2, Docker, Nginx)
       - State Management (NgRx, MobX)
-      - AI-Driven Development & CI/CD
+      - AI-Driven Development
 
 Performance Metrics:
   - Code Quality: 40% reduction in code duplication
@@ -291,7 +276,7 @@ Live Deployments: 5+
 
 ## 🎓 Education & Training
 
-**🎯 Brototype, Calicut** - *MEAN Stack Development Intensive Bootcamp Certification* • Sep 2024 - Jul 2025
+**🎯 Brototype, Calicut** - *MEAN Stack Development Intensive Bootcamp Certification* • Feb 2024 - Jan 2026
 
 **🎓 PPTM College** - *Bachelor of Computer Applications (BCA)* • University of Calicut • 2020-2023
 
